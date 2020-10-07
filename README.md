@@ -17,3 +17,4 @@
 ## 9. 정렬
 
 - [선택정렬, 삽입정렬, 버블정렬](https://github.com/weekbelt/data_structure/blob/master/%EC%A0%95%EB%A0%AC/%EA%B8%B0%EB%B3%B8%EC%A0%95%EB%A0%AC.c)
+- [병합정렬](/정렬/병합정렬.c)
