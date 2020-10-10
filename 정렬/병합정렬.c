@@ -3,7 +3,6 @@
 #include <time.h>
 
 #define MAX_SIZE 10
-#define SWAP(x, y, t) ((t) = (x), (x) = (y), (y) = (t))
 
 int sorted[MAX_SIZE];
 int list[MAX_SIZE];
